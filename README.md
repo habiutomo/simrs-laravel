@@ -1,3 +1,5 @@
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/82fb8644-a1fd-4692-871f-d2b4564cd156" />
+
 # SIMRS - Sistem Informasi Manajemen Rumah Sakit
 
 Aplikasi manajemen rumah sakit berbasis web menggunakan Laravel.
